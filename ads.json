@@ -3,6 +3,7 @@
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "facebookBanner": "IMG_16_9_APP_INSTALL#549167759165615_549192715829786",
     "facebookInterstitial": "IMG_16_9_APP_INSTALL#549167759165615_549190905829967",
+    "startAppId": "211178103",
     "unityGameId": "3054608",
     "unityTestMode": true,
     "activeAds": "admob",
